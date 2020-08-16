@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="button1">WITHOUT EQUIPMENT</string>
+    <string name="button2">WITH EQUIPMENT</string>
+    <string name="yogaButton">YOGA EXERCISES</string>
+    <string name="premiumbtt">PREMIUM CUSTOMER</string>
+    <string name="chesttext">CHEST</string>
+    <string name="shoulderbutton">SHOULDERS</string>
+    <string name="wide">WIDE ARM PUSHUPS</string>
+    <string name="diamon">DIAMOND PUSHUP</string>
+    <string name="incline">INCLINE PUSHUP</string>
+    <string name="STEP">STEP 01</string>
+    <string name="STEPs">STEP 02</string>
+    <string name="add">ADD</string>
+    <string name="addx">ADD EXERCISE</string>
+    <string name="upx">UPDATE EXERCISE</string>
+</resources>
